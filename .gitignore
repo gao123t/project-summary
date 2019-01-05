@@ -1,0 +1,13 @@
+﻿# https://github.com/github/gitignore/blob/master/Sass.gitignore
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+
+# https://github.com/github/gitignore/blob/ac2e28a2ef943557ad9f03016bff24505466e7f5/Node.gitignore
+# Dependency directories
+node_modules/
+# nuxt.js build output
+.nuxt
+
